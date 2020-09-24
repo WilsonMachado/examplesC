@@ -1,0 +1,1 @@
+double suma(double* arr, int* lenArr);
